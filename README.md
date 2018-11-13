@@ -6,5 +6,5 @@ For knowing how to get started with the project, click [here](https://github.com
 To know how to build up the code for the app, click [here](https://github.com/drish1001/Opulent/wiki/Building-Up-Code).
 ## Contributing 
 Contributers are always welcome. To know how you can contribute to this project, click [here](https://github.com/drish1001/Opulent/wiki/Contributing).
-##License
+## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
